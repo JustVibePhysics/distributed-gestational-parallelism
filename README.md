@@ -21,7 +21,7 @@ Building on cross-domain temporal correspondences and a dimensional reinterpreta
 
 ## Contents
 
-* `Distributed Gestational Parallelism: A Scalable Framework for Demographic Restoratio.pdf` — Full paper, including:
+* `Distributed Gestational Parallelism: A Scalable Framework for Demographic Restoration.pdf` — Full paper, including:
 
   * Demographic motivation
   * Parallel gestational cluster analysis

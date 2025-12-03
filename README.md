@@ -1,10 +1,5 @@
-Alright, let’s give this repo the exact vibe you want: **straight-faced, academic, deadpan professional**, but with the underlying absurdity humming like a forbidden reactor core.
 
-Here’s a clean, polished `README.md` you can paste directly into GitHub.
-
----
-
-# 📄 **README.md**
+**README**
 
 **Distributed Gestational Parallelism**
 *A speculative framework for scalable demographic restoration*
@@ -26,7 +21,7 @@ Building on cross-domain temporal correspondences and a dimensional reinterpreta
 
 ## Contents
 
-* `DGP.pdf` — Full paper, including:
+* `Distributed Gestational Parallelism: A Scalable Framework for Demographic Restoratio.pdf` — Full paper, including:
 
   * Demographic motivation
   * Parallel gestational cluster analysis
@@ -66,7 +61,3 @@ Any resemblance to real reproductive lasers, coherent birth emission devices, or
 ## License
 
 Released under the **MIT License**, because even hypothetical reproductive field theories should be open source.
-
----
-
-If you want a more serious-looking version, a funnier version, or a “this looks suspiciously real” version, I can tune the tone.
